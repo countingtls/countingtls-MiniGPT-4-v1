@@ -101,8 +101,8 @@ def gradio_answer(chatbot, chat_state, img_list, num_beams, temperature):
     chatbot[-1][1] = llm_message
     return chatbot, chat_state, img_list
 
-title = """<h1 align="center">Demo of MiniGPT-4</h1>"""
-description = """<h3>This is the demo of MiniGPT-4. Upload your images and start chatting!</h3>"""
+title = """<h1 align="center">Demo of countingtls-MiniGPT-4-v1</h1>"""
+description = """<h3>This is the demo of countingtls-MiniGPT-4-v1. Upload your images and start chatting!</h3>"""
 article = """<p><a href='https://minigpt-4.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a></p><p><a href='https://github.com/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/Github-Code-blue'></a></p><p><a href='https://raw.githubusercontent.com/Vision-CAIR/MiniGPT-4/main/MiniGPT_4.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a></p>
 """
 
