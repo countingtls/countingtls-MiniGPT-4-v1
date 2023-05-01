@@ -14,7 +14,7 @@ model:
 
   # Vicuna
   # llama_model: "/path/to/vicuna/weights/"
-  llama_model: "wangrongsheng/MiniGPT-4-LLaMA-7B"
+  llama_model: "wangrongsheng/MiniGPT-4-LLaMA"
 
   # generation configs
   prompt: ""
